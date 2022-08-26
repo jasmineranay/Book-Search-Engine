@@ -26,7 +26,7 @@
 
 ## Links
 -   Github Repository:
-    - https://github.com/brianalegre/21-MERN-Book-Search-Engine
+    - https://github.com/jasmineranay/Book-Search-Engine.git
 -   Heroku Deployed:
     - TBD
 
@@ -48,10 +48,10 @@
 ## Questions
 Questions? Concerns?  Contact Me Below:
 - Github Username: brianalegre
-- Github Link: https://github.com/brianalegre 
-- Email: brialegre@yahoo.com
+- Github Link: https://github.com/jasmineranay
+- Email: jasmineranay22@gmail.com
 
 ## License
-- Copyright 2022 Brian Alegre
+- Copyright 2022 Jasmine Tsao
 - Licensed under the: [MIT License](https://opensource.org/licenses/MIT) 
 
